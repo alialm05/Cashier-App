@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "2.8.7"
+  },
+  "dependencies": {
+    "tkinter": "^0.0.2-security"
+  }
+}
